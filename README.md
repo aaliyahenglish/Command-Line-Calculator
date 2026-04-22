@@ -1,5 +1,5 @@
 # Command-Line-Calculator
-#### A program that can perform addition, subtraction, multiplication, and division of two numbers provided as input. In this article, we will learn to create a simple calculator program in C.
+#### A program that can perform addition, subtraction, multiplication, and division of two numbers provided as input. 
 #### Made by Aaliyah English
 
 ### Greetings!!
